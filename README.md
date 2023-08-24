@@ -8,7 +8,7 @@ Input: Text Transcript with Time, Output: Insights, Main Ideas, Keywords, Distil
 
 ### Raw Transcript:
 
-```
+"""
 We started OpenAI seven years ago because we felt like something really interesting was happening in AI
 0:10
 and we wanted to help steer it in a positive direction.
@@ -568,4 +568,4 @@ And my hope is that that will continue to be the best path, but it's so good we'
 because we wouldn't otherwise if it weren't out there. CA: Greg Brockman, thank you so much for coming to TED and blowing our minds.
 30:07
 (Applause)
-```
+"""
